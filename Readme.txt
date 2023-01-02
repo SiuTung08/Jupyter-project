@@ -1,0 +1,2 @@
+Analyse the number of customers and deposits impacted should a Freeze period is setup.  
+Freeze period is setup with 2 arguments - number of consecutive failed deposits and the freeze period in hours.  
